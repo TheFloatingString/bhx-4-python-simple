@@ -14,6 +14,8 @@
 # this outputs a python dictionary with the type of pizza 
 # and the time it took to eat the pizza
 
+# note that the block inside the function is indented
+
 def identify_pizza(cheese=0, pepperoni=0, pineapple=0):
 
 	# these are two local variables 
