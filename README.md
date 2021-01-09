@@ -1,4 +1,4 @@
-# BrebeufHx 4 - Python Workshop (Simple Version)
+# BrebeufHx 4 - Python Workshop (Simple Version) (Part 1)
 
 Hello there!
 
