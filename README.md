@@ -35,7 +35,7 @@ If the python PATH was correctly configured during installation, you can open yo
 Navigate to your python file with `cd`, to change directory. Here's a link to 
 [a useful article on cmd navigation](https://www.howtogeek.com/659411/how-to-change-directories-in-command-prompt-on-windows-10/).
 
-When you arrive at the directory in which your file is in, type ```python <name of python file>``` or ```python3 <name of python file>``` for MacOS users.
+When you arrive at the directory in which your file is in, type ```python <name of python file>``` or ```python3 <name of python file>``` for MacOS/Linux users.
 
 If you do not like PyCharm, you can use an alternative code editor such as [Atom](https://atom.io).
 
