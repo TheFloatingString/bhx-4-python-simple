@@ -1,4 +1,4 @@
-# BrebeufHx 4 - Python Workshop (Simple Version) (Part 1)
+# BrebeufHx 4 - Python Workshop (Simple Version) (Part 1/2)
 
 Hello there!
 
@@ -11,7 +11,7 @@ The concepts that are used are:
 - if/else statements
 - functions
 
-If you had fun with this workshop, feel free to try the [more advanced web development version of this workshop](https://github.com/TheFloatingString/bhx-4-python-web-dev), 
+If you had fun with this workshop, feel free to try the [more advanced web development version of this workshop (part 2/2)](https://github.com/TheFloatingString/bhx-4-python-web-dev), 
 in which we create a web app that connects the fronend (HTML) with the backend (python).
 
 ## Running Python Online
